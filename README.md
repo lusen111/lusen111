@@ -1,16 +1,12 @@
-### Hi there 👋
+### my zoom银河系:
 
-<!--
-**lusen111/lusen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hello，I'm lusen ，welcome to my github！
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 正在开发unity引擎游戏以及简单c++游戏开发！
+- 🌱 游戏个人开发demo上传git上.
+- 👯 c++study资料链接:
+- 🤔 熟练c++,c#.
+- 💬 Ask me about?please send my mail:www.gg9662@126.com
+- 📫 Twitter：lusen
+- 😄 bilibili：https://space.bilibili.com/389760000
+   thanks！
