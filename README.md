@@ -5,6 +5,6 @@
 - 🌱 个人游戏开发demo上传git上。
 - 👯 c++study链接：https://pan.baidu.com/s/1ngA0ZYf7M_vVs0qLL9VW_w?pwd=yyds 
 - 🤔 熟悉c++,c#.
-- 💬 问我吗？请发我的邮件：www.gg9662@126.com
-- 📫 推特：lusen
-- 😄 bilibili：https://space.bilibili.com/389760000 谢谢！
+- 💬 ask me？请发我的邮件：www.gg9662@126.com
+- 📫 Twitter：lusen
+- 😄 bilibili：https://space.bilibili.com/389760000 thanks！
